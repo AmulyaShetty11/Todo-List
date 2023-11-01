@@ -1,8 +1,8 @@
 # Todo-List
 
-Output ScreenShots:
+## Output ScreenShots:
 
-Adding Todo's:
+### Adding Todo's:
 
 Before:
 
@@ -12,7 +12,7 @@ After:
 
 ![image](https://github.com/AmulyaShetty11/Todo-List/assets/137149903/c0aceb82-86c4-450d-9c18-a5c632d4f5b0)
 
-Deleting Todo's:
+### Deleting Todo's:
 
 Before:
 
@@ -22,7 +22,7 @@ After:
 
 ![image](https://github.com/AmulyaShetty11/Todo-List/assets/137149903/f27c1c0d-ea55-4cf3-b5a0-2e45418157fe)
 
-Edit Todo's:
+### Edit Todo's:
 
 Before:
 
@@ -34,6 +34,6 @@ After:
 
 ![image](https://github.com/AmulyaShetty11/Todo-List/assets/137149903/59e9839c-00b9-4c6b-9106-16c38febb808)
 
-Final View:
+## Final View:
 
 ![image](https://github.com/AmulyaShetty11/Todo-List/assets/137149903/481f9910-a4c4-47b9-8e96-6b0e90d65da2)
